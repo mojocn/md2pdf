@@ -1,5 +1,5 @@
 export const initialText = `# Markdown2PDF 
-https://md2pdf.netlify.com/
+https://md2pdf.mojotv.cn/
 > Awesome Markdown to PDF!
 \`\`\`diff
 - Online? Upload resume.md to stranger server?
