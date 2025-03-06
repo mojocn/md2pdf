@@ -23,7 +23,6 @@ https://md2pdf.mojotv.cn/
 <blockquote>Hey I'm in blockquote!</blockquote>
 
 ## Profile
-- Github: [@realdennis](https://github.com/realdennis)
 - Project: md2pdf (Markdown2PDF)
 - What about me: ☕ 、 👨🏻‍💻️、 🍕、 🎞️
 
