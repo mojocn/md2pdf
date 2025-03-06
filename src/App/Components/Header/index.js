@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import UploadButton from "./Upload.js";
 const Header = ({ className }) => {
   const onTransfrom = () => {
     // get the file name
@@ -23,7 +22,6 @@ const Header = ({ className }) => {
   return (
     <header className={className + " no-print"}>
       <div className="menu">
-        <UploadButton className="button upload" />
         <p className="button download" onClick={onTransfrom}>
           <span role="img" aria-label="download">
             🎉
